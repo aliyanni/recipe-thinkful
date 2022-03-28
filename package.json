@@ -1,6 +1,7 @@
 {
   "name": "recipe-app",
   "version": "0.1.0",
+  "homepage": "https://aliyanni.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
